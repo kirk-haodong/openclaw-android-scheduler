@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kirk-haodong/openclaw-android-scheduler/blob/master/assets/logo.svg?raw=true" alt="OpenClaw Android Scheduler" width="180">
+  <img src="https://raw.githubusercontent.com/kirk-haodong/openclaw-android-scheduler/main/assets/logo.svg" alt="OpenClaw Android Scheduler" width="180">
 </p>
 
 <h1 align="center">OpenClaw Android Scheduler</h1>
